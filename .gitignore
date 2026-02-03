@@ -1,0 +1,4 @@
+# Dossiers ou fichiers à ne pas tenir compte dans le dépôt git 
+
+hard/
+mec/ 
